@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <a href="https://github.com/riazulislamtusar/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=theriazul" />
 </a>
