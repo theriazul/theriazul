@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theriazul" alt="theriazul" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/the__riazul" target="blank"><img src="https://img.shields.io/twitter/follow/the__riazul?logo=twitter&style=for-the-badge" alt="the__riazul" /></a> </p>
+<p align="left"> <a href="https://facebook.com/theriazul" target="blank"><img src="https://img.shields.io/twitter/follow/the__riazul?logo=twitter&style=for-the-badge" alt="the__riazul" /></a> </p>
 
 - 💻 I am **Web Developer**
   
 - ✅ I’m currently working on **YouTube**
 
 - ✅ I’m currently learning **JavaScript**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theriazul" alt="theriazul" /></a> </p>
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
