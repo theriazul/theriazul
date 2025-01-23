@@ -55,7 +55,7 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/theriazul/contributions?format=svg&private=true)  
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
  
