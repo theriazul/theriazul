@@ -5,7 +5,7 @@
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
 
-- 💻 I am **Web Developer**
+ 💻 I am **Web Developer**
 - 🖋️ Love to write code
 - 🧠 Like to share my knowledge
 
