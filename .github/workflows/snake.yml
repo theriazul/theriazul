@@ -1,108 +1,52 @@
-name: GitHub Snake Game
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+name: Generate Snake
 
-
-
+# Controls when the action will run.
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
   schedule:
+      # every 12 hours
+    - cron: "0 */12 * * *"
 
-    - cron: "0 0 * * *"
-
-
-
-  # Allow manual triggering of the workflow
-
+  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-
-
-
-  # Trigger the workflow on pushes to the main branch
-
+  
+  # Also run on every push on the master branch
   push:
-
     branches:
+    - main
 
-      - main
-
-
-
+# The sequence of runs in this workflow:
 jobs:
-
-  generate:
-
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    timeout-minutes: 10
-
-
-
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
-      # Step 1: Checkout the repository
-
-      - name: Checkout Repository
-
+      - name: Clone repo
         uses: actions/checkout@v3
-
-
-
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
+    
+      - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
-
+        id: snake-gif
         with:
-
-          # GitHub username to generate the animation for
-
           github_user_name: ${{ github.repository_owner }}
-
-
-
-          # Define the output files and their configurations
-
           outputs: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Show build status
+        run: git status
 
-
-
-      # Step 3: Deploy the generated files to the 'output' branch
-
-      - name: Deploy to Output Branch
-
-        uses: peaceiris/actions-gh-pages@v3
-
+      - name: Push new files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          publish_dir: ./dist
-
-          publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-          commit_message: "Update snake animation [skip ci]"
-
-
-
-Once pasted, commit changes for this snake.yml file.
-
-
-
-Step 3 : Bring the YML file into Action
-
-Go to the home directory on your Profile repository. 
-Now you must see a directory ".github" and a file "README.md"
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake animations
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
