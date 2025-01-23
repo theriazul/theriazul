@@ -14,13 +14,15 @@
 
 <p align="left"> <a href="https://twitter.com/the__riazul" target="blank"><img src="https://img.shields.io/twitter/follow/the__riazul?logo=twitter&style=for-the-badge" alt="the__riazul" /></a> </p>
 
-- 🔭 I’m currently working on **YouTube**
+- 💻 I am **Web Developer**
+  
+- ✅ I’m currently working on **YouTube**
 
-- 🌱 I’m currently learning **JavaScript**
+- ✅ I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **GitHub**
-
-- 💬 Ask me about **Web Developer**
+<h3 align="left">About Me:</h3>
+<p align="left">
+I love to solve real-world problems. I am strategic, goal-oriented, and always work with and end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,13 +46,24 @@
 #### Web Developer
 I love to solve real-world problems. I am strategic, goal-oriented, and always work with and end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP..
 
-Skills:  REACT / JS / HTML / CSS  / PHP
+Skills & Experiance:  
 
-- 🔭 I’m currently working on YouTube 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+✅ WordPress
+✅ JavaScript
+✅ PHP
+✅ HTML / CSS
+✅ Photoshop / Illustrator
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/the__riazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the__riazul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theriazul" height="30" width="40" /></a>
+<a href="https://fb.com/theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theriazul" height="30" width="40" /></a>
+<a href="https://instagram.com/riazulislam.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riazulislam.6" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theriazul" height="30" width="40" /></a>
+</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theriazul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theriazul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/riazulislam.6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/the__riazul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/theriazul)  
 
