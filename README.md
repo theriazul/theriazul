@@ -44,13 +44,6 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-
-src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=theriazul)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theriazul)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theriazul&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/theriazul/contributions?format=svg&private=true)  
