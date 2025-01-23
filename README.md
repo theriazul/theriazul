@@ -1,7 +1,7 @@
-![Web Developer](https://pbs.twimg.com/profile_banners/1112368956080377857/1682496886/1080x360)
 <h1 align="center">Hi 👋, I'm Riazul Islam Tusar</h1>
 <h3 align="center">Web Developer</h3>
 
+![Web Developer](https://pbs.twimg.com/profile_banners/1112368956080377857/1682496886/1080x360)
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
 
