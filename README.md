@@ -5,7 +5,7 @@
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
 
- <p align="middle">💻 I am **Web Developer**
+ <p align="align">💻 I am **Web Developer**
  <p align="middle">🖋️ Love to write code
  <p align="middle">🧠 Like to share my knowledge
 
