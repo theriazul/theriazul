@@ -1,15 +1,8 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/riazulislamtusar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=theriazul" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/riazulislamtusar/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theriazul&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/1112368956080377857/1682496886/1080x360)
