@@ -2,7 +2,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=theriazul" />
 </a>
 <a href="https://github.com/riazulislamtusar/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riazulislamtusar&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)" />
 </a>
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/1112368956080377857/1682496886/1080x360)
