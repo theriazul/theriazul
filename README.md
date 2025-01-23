@@ -33,12 +33,8 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theriazul&show_icons=true&locale=en&layout=compact" alt="theriazul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theriazul&show_icons=true&locale=en" alt="theriazul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriazul&" alt="theriazul" /></p>
-
-
-👨‍💻 Skills & Experiance:  
+👨‍💻 <h3 align="left">Skills & Experiance:</h3>  
 
 <p align="left">
 ✅ WordPress
