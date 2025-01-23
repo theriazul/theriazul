@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riazul Islam Tusar</h1>
 <h3 align="center">Web Developer</h3>
 
-![Web Developer](https://pbs.twimg.com/profile_banners/1112368956080377857/1682496886/1080x360)
+![Web Developer](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/474793532_1044330101044970_7396603532874226899_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=BjIZ3K0bInMQ7kNvgFVwSnX&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=AwGIvfH7VGguizGaTOJ-X05&oh=00_AYChIb9W5AwDxCleTEqEhrV_cNFg5iqWgOmE6pbOP_qj8g&oe=67986AA1)
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
 
