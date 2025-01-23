@@ -1,12 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-<a href="https://github.com/riazulislamtusar/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=theriazul" />
-</a>
-
-
 ![Web Developer](https://pbs.twimg.com/profile_banners/1112368956080377857/1682496886/1080x360)
 <h1 align="center">Hi 👋, I'm Riazul Islam Tusar</h1>
 <h3 align="center">Web Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
 
@@ -20,11 +15,11 @@
 
 - ✅ I’m currently learning **JavaScript**
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">🚀About Me:</h3>
 <p align="left">
 I love to solve real-world problems. I am strategic, goal-oriented, and always work with and end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝Connect with me!</h3>
 <p align="left">
 <a href="https://twitter.com/the__riazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the__riazul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theriazul" height="30" width="40" /></a>
