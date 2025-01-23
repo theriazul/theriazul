@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riazul Islam Tusar</h1>
+<h1 align="center">Hi, I'm Riazul Islam Tusar 👋</h1>
 <h3 align="center">Web Developer</h3>
 
 ![Web Developer](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/474793532_1044330101044970_7396603532874226899_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=BjIZ3K0bInMQ7kNvgFVwSnX&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=AwGIvfH7VGguizGaTOJ-X05&oh=00_AYChIb9W5AwDxCleTEqEhrV_cNFg5iqWgOmE6pbOP_qj8g&oe=67986AA1)
@@ -62,9 +62,7 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 
 
 
-[[### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/474793532_1044330101044970_7396603532874226899_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=BjIZ3K0bInMQ7kNvgFVwSnX&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=AwGIvfH7VGguizGaTOJ-X05&oh=00_AYChIb9W5AwDxCleTEqEhrV_cNFg5iqWgOmE6pbOP_qj8g&oe=67986AA1)](https://github.com/99robots/wpsite-follow-us-badges.git)](https://github.com/99robots/wpsite-follow-us-badges.git)
+
 
  
 
