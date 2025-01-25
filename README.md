@@ -53,7 +53,7 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 <h2 align="left">⚡Stats:</h2>
 
 <div align=left>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=react&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=react&include_all_commits=true&count_private=true&layout=compact" width="390" /> </br>
 <br/>
 
   <div align=left>
