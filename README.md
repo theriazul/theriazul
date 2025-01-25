@@ -5,6 +5,8 @@
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
 
+
+
   💻 I am **Web Developer**
   
   🖋️ Love to write code
@@ -49,6 +51,10 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theriazul&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=theriazul&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/theriazul/contributions?format=svg&private=true)  
