@@ -34,7 +34,7 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 <a href="https://linkedin.com/in/theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theriazul" height="30" width="40" /></a>
 <a href="https://fb.com/theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theriazul" height="30" width="40" /></a>
 <a href="https://instagram.com/riazulislam.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riazulislam.6" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theriazul" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theriazul" height="30" width="40" /></a>
 </p>
 
 
