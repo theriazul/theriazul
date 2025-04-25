@@ -3,7 +3,7 @@
 
 
   
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Passionate Computer Science Engineering Student</h3>
 
 ![logo](https://github.com/theriazul/theriazul/blob/main/GitHub%20Banner.jpeg)
 
