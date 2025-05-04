@@ -11,11 +11,7 @@
 
 
 
-  💻 I am **Web Developer**
-  
-  🖋️ Love to write code
-  
-  🧠 Like to share my knowledge
+
 
 
 <p align="middle"> <a href="https://twitter.com/the__riazul" target="blank"><img src="https://img.shields.io/twitter/follow/the__riazul?logo=twitter&style=for-the-badge" alt="the__riazul" /></a> </p>
