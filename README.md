@@ -75,11 +75,7 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 
 
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/theriazul/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/theriazul/theriazul/output/github-snake.svg" />
-</picture>
+![snake gif](https://github.com/theriazul/theriazul/blob/output/github-snake-dark.svg)
 
 
 <br/><br/>
@@ -90,3 +86,6 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/theriazul?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
 
 </div>
+
+
+
