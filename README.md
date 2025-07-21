@@ -87,5 +87,3 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 
 </div>
 
-
-
