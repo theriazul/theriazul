@@ -74,7 +74,6 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 <hr/>
 
 
-
 ![snake gif](https://github.com/theriazul/theriazul/blob/output/github-snake-dark.svg)
 
 
