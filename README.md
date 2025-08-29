@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theriazul" alt="roy-ma" /></a> </p>
 
-                                                                         
+ [![trophy](https://github-profile-trophy.vercel.app/?username=theriazul)](https://github.com/ryo-ma/github-profile-trophy)                                                                        
 
 <h2 align="left">🚀 About Me</h2>
 <p align="left">
