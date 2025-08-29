@@ -15,9 +15,9 @@
 
 <p align="middle"> <a href="https://twitter.com/the__riazul" target="blank"><img src="https://img.shields.io/twitter/follow/the__riazul?logo=twitter&style=for-the-badge" alt="the__riazul" /></a> </p>
 
-<p align="left"> <a href="https://github.com/theriazul/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theriazul" alt="roy-ma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theriazul" alt="theriazul" /></a> </p>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=theriazul)](https://github.com/ryo-ma/github-profile-trophy)                                                                        
+                                                                       
 
 <h2 align="left">🚀 About Me</h2>
 <p align="left">
