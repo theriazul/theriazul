@@ -16,7 +16,7 @@
 
 <br><br>
 - :school: I am a `Fresh Graduate` from the [Faculty of Science & Information Tecnology](#) at [Daffodil International University](#).
-- :technologist: I love solve every `Problem`.
+- :technologist: I love solve `Problems`.
 - :computer: I am a competitive programmer at `Beecrowd`, `Codeforces`.
 - :student: I’m currently learning `Computer Science` and `Cyber Security`.
 - :nerd_face: Always `learning new things`.
