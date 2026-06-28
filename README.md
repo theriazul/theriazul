@@ -123,16 +123,17 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <br/>
   </div>
 
-<h2 align="left">🔝 Top Contributed Repo:</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=theriazul&limit=5&theme=react&combine_all_yearly_contributions=true)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/theriazul/contributions?format=svg&private=true)  
+  <tr align="center">
+<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theriazul&theme=github_dark"/></td>
+</tr>
 
 
-<br/><br/>
+<p align="center">
+  <h1 align="center">Summary Of My Github Live Graph</h1>
+</p>  
 
-<hr/>
+[![contributions](https://activity-graph.herokuapp.com/graph?username=theriazul&theme=xcode&area=true)](https://github.com/theriazul)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theriazul&theme=github_dark)
 
 
 <h2 align='left'>🐍 A Snake Eating My Contributions Graph</h2>
