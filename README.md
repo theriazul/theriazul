@@ -9,13 +9,12 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Riazul+Islam+Tusar;I'm+Self-taught+Programmer;I+am+a+creator;I+am+a+Cyber+Security;I+am+a+researcher"></a>
   </h2>
-
+  
+  <p align="center" <a href="https://github.com/theriazul">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/theriazul?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> </p>
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/skyfeelriazul) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theriazul) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riazulislam.6/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/the__riazul) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.riazulislam99@gmail.com) 
-
-  <p align="center" <a href="https://github.com/theriazul">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/theriazul?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> </p>
 
 ![](https://komarev.com/ghpvc/?username=theriazul&color=6aa6f8)
   <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/theriazul/custom-icon-badges?logo=tag&logoColor=white"/></a>
