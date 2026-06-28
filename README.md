@@ -10,13 +10,20 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Riazul+Islam+Tusar;I'm+Self-taught+Programmer;I+am+a+creator;I+am+a+Cyber+Security;I+am+a+researcher"></a>
   </h2>
 
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Engineering+Student;Cyber+Security;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/skyfeelriazul) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theriazul) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riazulislam.6/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/the__riazul) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.riazulislam99@gmail.com) 
+
+  <p align="center" <a href="https://github.com/theriazul">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/theriazul?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> </p>
+
+![](https://komarev.com/ghpvc/?username=theriazul&color=6aa6f8)
+  <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/theriazul/custom-icon-badges?logo=tag&logoColor=white"/></a>
+  <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
+  <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dtheriazul%26type%3Djson"/></a>
+ <br> 
+
+	
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
@@ -24,7 +31,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 <br><br>
 - :school: I am a `Fresh Graduate` from the [Faculty of Science & Information Tecnology](#) at [Daffodil International University](#).
-- :technologist: I love solve `Problems`.
+- :technologist: I love solving `Problems`.
 - :computer: I am a competitive programmer at `Beecrowd`, `Codeforces`.
 - :student: I’m currently learning `Computer Science` and `Cyber Security`.
 - :nerd_face: Always `learning new things`.
