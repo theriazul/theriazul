@@ -73,6 +73,7 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 
 <hr/>
 
+🐍 A Snake Eating My Contributions Graph
 
 ![snake gif](https://github.com/theriazul/theriazul/blob/output/github-snake-dark.svg)
 
@@ -80,9 +81,10 @@ I love to solve real-world problems. I am strategic, goal-oriented, and always w
 <br/><br/>
 
 <hr/>
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/theriazul?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+<h2 align='left'>Thank You ❤</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>
 
-</div>
+
 
