@@ -1,6 +1,14 @@
+[![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
-  Welcome to Riazul Islam's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Riazul Islam's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+<!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
+leetcode: https://leetcard.jacoblin.cool/ -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Riazul+Islam+Tusar;I'm+Self-taught+Programmer;I+am+a+creator;I+am+a+Cyber+Security;I+am+a+researcher"></a>
+  </h2>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
 
