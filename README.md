@@ -36,7 +36,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 - :student: I’m currently learning `Computer Science` and `Cyber Security`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
-- :boom: You can visit [MY WEBSITE](theriazul.github.io).
+- :boom: You can visit [MY WEBSITE](https://theriazul.github.io).
 <be>
 
 <!-- Competitive Programming Profiles --> 
