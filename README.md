@@ -48,58 +48,51 @@
 
 
 
+##  Frontend 
+
+[![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#) 
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) 
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) 
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=CA4245)](#) 
+[![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=white)](#)
+[![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
+[![Firebase Badge](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#) 
+[![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&labelColor=black&logo=redux&logoColor=593d88)](#) 
+[![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
+<img src="https://img.shields.io/badge/React_Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=61DAFB" height="25"/> <img src="https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/> 
 
 
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋🏻;+I'm+Riazul+Islam+Tusar!;" />
-
-
-  
-<h3 align="center">Passionate Computer Science Engineering Student</h3>
-
-![logo](https://github.com/theriazul/theriazul/blob/main/GitHub%20Banner.jpeg)
-
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
+##  Backend  
+[![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
+[![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
+[![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#) 
 
 
+## Tools 
 
 
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#) 
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#) 
+[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=E85824)](#) 
+[![NPM Badge](https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) 
+[![Yarn Badge](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2C8EBB)](#) 
+[![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) 
+[![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#) 
+[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=#00C7B7)](#) 
+[![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#) 
+[![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
+[![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
 
-<p align="middle"> <a href="https://twitter.com/the__riazul" target="blank"><img src="https://img.shields.io/twitter/follow/the__riazul?logo=twitter&style=for-the-badge" alt="the__riazul" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theriazul" alt="theriazul" /></a> </p>
-
-                                                                       
-
-<h2 align="left">🚀 About Me</h2>
-<p align="left">
-I love to solve real-world problems. I am strategic, goal-oriented, and always work with and end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
-
-                                                                      
-<h2 align="left">🤝 Connect with me!</h2>
-<p align="left">
-<a href="https://twitter.com/the__riazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the__riazul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theriazul" height="30" width="40" /></a>
-<a href="https://fb.com/theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theriazul" height="30" width="40" /></a>
-<a href="https://instagram.com/riazulislam.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riazulislam.6" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@theriazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theriazul" height="30" width="40" /></a>
-</p>
-
-                                                                        
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
- 
-<h2 align="left">👨‍💻 Skills & Experiance:</h2>
-
-<p align="left">✅ WordPress
-<p align="left">✅ JavaScript
-<p align="left">✅ PHP
-<p align="left">✅ HTML / CSS
-<p align="left">✅ Photoshop / Illustrator
-
-<h2 align="left">⚡Stats:</h2>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 <div align=left>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=react&include_all_commits=true&count_private=true&layout=compact" width="390" /> </br>
