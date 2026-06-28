@@ -2,15 +2,10 @@
   Welcome to Riazul Islam's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
-  </div> 
-</p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=theriazul&label=Profile%20views&color=0e75b6&style=flat" alt="theriazul" /> </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Passionate+Computer+Science+Engineering+Student;Cyber+Security;4+Kyu+on+AtCoder;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Engineering+Student;Cyber+Security;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/skyfeelriazul) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theriazul) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riazulislam.6/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/the__riazul) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.riazulislam99@gmail.com) 
