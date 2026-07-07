@@ -135,7 +135,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theriazul&theme=github_dark)
 
 
-<h2 align='left'>🐍 A Snake Eating My Contributions Graph</h2>
+<h2 align='left'> A Snake Eating My Contributions Graph</h2>
 
 ![snake gif](https://github.com/theriazul/theriazul/blob/output/github-snake-dark.svg)
 
