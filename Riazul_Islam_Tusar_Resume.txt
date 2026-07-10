@@ -1,0 +1,24 @@
+
+=============================================
+RIAZUL ISLAM TUSAR - RESUME
+Computer Science Engineer | Digital Creator | Founder
+Email: info.riazulislam99@gmail.com
+=============================================
+
+SUMMARY:
+A highly adaptive Computer Science Engineer, Creative Architect, and Tech Founder tailoring next-generation digital products. Specializing in high-performance web applications, immersive UI/UX systems, database management, and robust backend micro-frameworks.
+
+EXPERIENCE:
+- Founder & Lead Architect | DevVortex Studio (2024 - PRESENT)
+- CS Engineer & Creative Developer | Workspace Labs Ltd. (2023 - 2024)
+- Full Stack Engineer Intern | Quantum Tech systems (2022 - 2023)
+
+TECHNICAL SKILLS:
+- Frontend: HTML5, CSS3, ES6+ Javascript, React JS, Tailwind CSS
+- Backend & DB: Node.js, Express, MongoDB, MySQL
+- Tools: Git, VS Code, Figma App Prototyping
+
+EDUCATION & DEGREES:
+- Bachelor of Science in Computer Science & Engineering
+=============================================
+Downloaded via Riazul's Interactive Portfolio Platform (2026).
