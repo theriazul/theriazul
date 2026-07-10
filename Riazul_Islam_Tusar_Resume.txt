@@ -6,12 +6,12 @@ Email: info.riazulislam99@gmail.com
 =============================================
 
 SUMMARY:
-A highly adaptive Computer Science Engineer, Creative Architect, and Tech Founder tailoring next-generation digital products. Specializing in high-performance web applications, immersive UI/UX systems, database management, and robust backend micro-frameworks.
+A highly adaptive Computer Science Engineer, Creative Architect, and Tech Founder tailoring next-generation digital products and specializing in high-performance web applications, immersive UI/UX systems, database management, and robust backend micro-frameworks.
 
 EXPERIENCE:
-- Founder & Lead Architect | DevVortex Studio (2024 - PRESENT)
+- Founder & Lead Architect | Ryzenta (2024 - PRESENT)
 - CS Engineer & Creative Developer | Workspace Labs Ltd. (2023 - 2024)
-- Full Stack Engineer Intern | Quantum Tech systems (2022 - 2023)
+- Full Stack Engineer Intern | Quantum Tech Systems (2022 - 2023)
 
 TECHNICAL SKILLS:
 - Frontend: HTML5, CSS3, ES6+ Javascript, React JS, Tailwind CSS
