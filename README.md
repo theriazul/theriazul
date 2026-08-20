@@ -1,26 +1,32 @@
-[![MasterHead](00086-desk-anim-v0.3.gif)]()
-<h3 align="center">
-  HELLO!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1f2937,100:0f766e&text=RIAZUL&font=Montserrat&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36" alt="header" />
+</p>
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
-<h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Riazul+Islam+Tusar;I'm+Self-taught+Programmer;I+am+a+creator;I+am+a+Cyber+Security;I+am+a+researcher"></a>
-  </h2>
-  
-  <p align="center" <a href="https://github.com/theriazul">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/theriazul?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=700&speed=30&color=0F766E&center=true&vCenter=true&width=950&lines=CS+Engineer;Self-taught+Programmer;Cyber+Security" alt="typing title" />
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/skyfeelriazul" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="34" alt="Facebook" />
+  </a>
+  <a href="mailto:theriazul.info@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="34" alt="Mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/theriazul/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="34" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theriazul&base=9590&abbreviated=true&color=0f766e&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/theriazul?label=Followers&logo=github&style=for-the-badge&color=334155" alt="followers" />
+  <img src="https://img.shields.io/github/stars/theriazul?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=1f2937" alt="stars" />
+</p>
 
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/skyfeelriazul) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theriazul) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riazulislam.6/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/the__riazul) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theriazul.info@gmail.com) 
 
-![](https://komarev.com/ghpvc/?username=theriazul&color=6aa6f8)
-  <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/theriazul/custom-icon-badges?logo=tag&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dtheriazul%26type%3Djson"/></a>
- <br> 
 
 	
 
@@ -122,9 +128,6 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <br/>
   </div>
 
-  <tr align="center">
-<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theriazul&theme=github_dark"/></td>
-</tr>
 
 
 <p align="center">
