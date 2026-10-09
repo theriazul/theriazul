@@ -56,14 +56,6 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 	  &emsp; 
 	<a href="https://leetcode.com/theriazul/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
-	<a href="https://atcoder.jp/users/theriazul"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
-	  &emsp; 
-	<a href="https://www.codechef.com/users/theriazul"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
-	  &emsp; 
-	<a href="https://icpc.global/ICPCID/IW0X0CTD"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
-	  &emsp; 
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d63685" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
-
 </div>
 
 
@@ -114,24 +106,23 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-<div align=left>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=react&include_all_commits=true&count_private=true&layout=compact" width="390" /> </br>
 <br/>
 
-  <div align=left>
+  <div align=center>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=theriazul&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 
  <br/>
-<div align=left>
+<div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=theriazul&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
   </div>
 
 
 
-<p align="center">
-  <h1 align="center">Summary Of My Github Live Graph</h1>
+<p align="center"></h1>
 </p>  
 
 [![contributions](https://activity-graph.herokuapp.com/graph?username=theriazul&theme=xcode&area=true)](https://github.com/theriazul)
