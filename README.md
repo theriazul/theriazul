@@ -49,7 +49,11 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
 <!-- https://leetcard.jacoblin.cool/ --> 
+<div align="center">
+	
 ![LeetCode Stats](https://leetcard.jacoblin.cool/theriazul?theme=nord&font=Salsa&ext=activity)
+	
+</div>
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/theriazul"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
@@ -125,7 +129,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 <p align="center"></h1>
 </p>  
 
-[![contributions](https://activity-graph.herokuapp.com/graph?username=theriazul&theme=xcode&area=true)](https://github.com/theriazul)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theriazul&theme=github_dark)
 
 
