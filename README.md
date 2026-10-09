@@ -4,7 +4,7 @@
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=700&speed=30&color=0F766E&center=true&vCenter=true&width=950&lines=CS+Engineer;Self-taught+Programmer;Cyber+Security" alt="typing title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=700&speed=30&color=0F766E&center=true&vCenter=true&width=950&lines=CS+Engineer;Aspiring+Researcher;AI/ML+Enthusiast;Cyber+Security;Web+Developer" alt="typing title" />
 </p>
 
 <p align="center">
