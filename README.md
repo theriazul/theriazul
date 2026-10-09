@@ -35,13 +35,8 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a `Fresh Graduate` from the [Faculty of Science & Information Technology](#) at [Daffodil International University](#).
-- :technologist: I love solving `Problems`.
-- :computer: I am a competitive programmer at `Beecrowd`, `Codeforces`.
-- :student: I’m currently learning `Computer Science` and `Cyber Security`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`; this is [MY RESUME](https://github.com/theriazul/theriazul/blob/main/Riazul_Islam_Tusar_Resume.txt).
-- :boom: You can visit [MY WEBSITE](https://theriazul.github.io).
+ :student: I am a `Fresh Graduate` from the [Faculty of Science & Information Technology](https://faculty.daffodilvarsity.edu.bd/teachers/cse.html) at [Daffodil International University](#).
+  I’m currently learning `Computer Science` and `Cyber Security`. Always `learning new things`. I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/theriazul/theriazul/blob/main/Riazul_Islam_Tusar_Resume.txt). You can visit [MY WEBSITE](https://theriazul.github.io).
 <be>
 
 <!-- Competitive Programming Profiles --> 
@@ -78,7 +73,6 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 [![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
 [![Firebase Badge](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#) 
 [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&labelColor=black&logo=redux&logoColor=593d88)](#) 
-[![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
 <img src="https://img.shields.io/badge/React_Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=61DAFB" height="25"/> <img src="https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/> 
 
 
@@ -95,17 +89,13 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#) 
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#) 
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=E85824)](#) 
-[![NPM Badge](https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) 
-[![Yarn Badge](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2C8EBB)](#) 
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)  
 [![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) 
 [![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#) 
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=#00C7B7)](#) 
 [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#) 
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
-[![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
@@ -141,7 +131,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 <br/><br/>
 
 <hr/>
-<h2 align='left'>Thank You ❤</h2>
+<h2 align='left'></h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>
